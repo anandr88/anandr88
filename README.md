@@ -25,20 +25,22 @@
         <h1></h1>
     </div>
 </div>
-```py
+
 <div>
     <div>
         <h1></h1>
         <ul>
+            ```
             <li>🔭 <b>I’m am a Computational biologist.</li>
             <li>🛠️ <b>Working with</b>: Python, Machine Learning, Bioinformatics, and Data Science</li>
             <li>🔍 <b>Exploring the intersection of</b>AI and Life Sciences</li>
             <li>📌 <b>Passionate about</b>open-source collaboration and innovative biological research</li>
+            ```
         </ul>
         <br />
     </div>
 <br>    
-```
+
 <div align="center">
     <h1>Skill Set 💪</h1>
     <h4>These are some of the major technologies that I use or have worked on in the past:</h4>
