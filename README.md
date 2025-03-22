@@ -1,5 +1,6 @@
 <div>
     <div align="center">
+        <img src="https://www.datasciencecentral.com/wp-content/uploads/2021/10/9264415667.jpeg" height="200" />
         <img src="https://cdn.mrayush.me/img/Github-Readme/GitHub.png" height="200" />
     </div>
     <div align="center">
