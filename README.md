@@ -19,15 +19,12 @@
         <br />
         <p>
             <strong>
-                I'm a 4th Year PhD. Student at Indraprastha Institute of Information Technology, Delhi; I'm an enthusiastic professional with a background in zoology, biochemistry and bioinformatics. Proficient in Python and eager to learn more, I'm ready to contribute to innovative projects that solve complex biological problems. Let's connect and explore the exciting world of data science in life sciences.
+                I'm a PhD Student at Indraprastha Institute of Information Technology, Delhi; I'm an enthusiastic professional with a background in zoology, biochemistry and bioinformatics. Proficient in Python and eager to learn more, I'm ready to contribute to innovative projects that solve complex biological problems. Let's connect and explore the exciting world of data science in life sciences.
             </strong>
         </p>
         <h1></h1>
     </div>
 </div>
-
-
-
 <div>
     <div>
         <h1></h1>
@@ -39,37 +36,6 @@
         </ul>
         <br />
     </div>
-</div>
-<div style="text-align: center; padding: 20px;">
-    <h1 style="font-size: 2.5em; color: #4A90E2;">👨‍🔬 Hello, I’m Anand Singh Rathore!</h1>
-    <h2 style="color: #555;">Computational Biologist | Researcher | Innovator</h2>
-
- <ul style="list-style: none; padding: 0; line-height: 1.8; font-size: 1.2em;">
-        <li>🔭 <b>Passionately navigating</b> the world of Computational Biology</li>
-        <li>🛠️ <b>Skilled in</b>: Python, Machine Learning, Bioinformatics, and Data Science</li>
-        <li>🔍 <b>Exploring the future of</b>: AI in Life Sciences and Peptide Analysis</li>
-        <li>📌 <b>Committed to</b>: Open-source collaboration and groundbreaking biological research</li>
-</ul>
-    <div style="display: flex; justify-content: center; gap: 15px;">
-        <a href="https://scholar.google.com/citations?user=TdQKiqMAAAAJ&hl=en" target="_blank">
-            <img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white" />
-        </a>
-        <a href="https://www.linkedin.com/in/anand-singh-rathore-56a1b2178/" target="_blank">
-            <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-        </a>
-        <a href="mailto:anandrathoreindia@gmail.com">
-            <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-        </a>
-    </div>
-</div>
-```py
-About Me = [
-    "I'm PhD student of CB department at IIIT Delhi",
-    "A know about of Python, ML, frameworks and databases",
-    "New Things with code everyday",
-    "I am in my world !! "
-]
-```
 <br>    
 
 <div align="center">
