@@ -44,6 +44,18 @@
 </div>
 <div align="center">
     <h3><b>Biological Tools</b></h3>
+    <code><a href="https://www.uniprot.org/" target="_blank"><img src="https://static.uniprot.org/images/uniprot-rdf.svg" title="UniProt" alt="uniprot" width="40" height="40"/></a></code>&nbsp;
+    <code><a href="https://www.rcsb.org/" target="_blank"><img src="https://cdn.rcsb.org/rcsb-pdb/v2/common/images/pdb-header-logo.png" title="RCSB PDB" alt="rcsb" width="40" height="40"/></a></code>&nbsp;
+    <code><a href="https://blast.ncbi.nlm.nih.gov/Blast.cgi" target="_blank"><img src="https://www.ncbi.nlm.nih.gov/core/assets/ncbi/images/logos/ncbi-logo-blue.svg" title="NCBI BLAST" alt="blast" width="40" height="40"/></a></code>&nbsp;
+    <code><a href="https://www.ebi.ac.uk/interpro/" target="_blank"><img src="https://www.ebi.ac.uk/static/img/ebi-logo-header.svg" title="InterPro" alt="interpro" width="40" height="40"/></a></code>&nbsp;
+    <code><a href="https://github.com/weizhongli/cdhit" target="_blank"><img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" title="CD-HIT" alt="cdhit" width="40" height="40"/></a></code>&nbsp;
+    <code><a href="https://biopython.org/" target="_blank"><img src="https://biopython.org/assets/logo_main.png" title="Biopython" alt="biopython" width="40" height="40"/></a></code>&nbsp;
+    <code><a href="https://www.expasy.org/translate/" target="_blank"><img src="https://www.expasy.org/sites/all/themes/expasy/logo.png" title="Expasy Translate" alt="expasy" width="40" height="40"/></a></code>&nbsp;
+    <code><a href="https://web.expasy.org/protparam/" target="_blank"><img src="https://www.expasy.org/sites/all/themes/expasy/logo.png" title="ProtParam" alt="protparam" width="40" height="40"/></a></code>&nbsp;
+</div>
+
+<div align="center">
+    <h3><b>Biological Tools</b></h3>
     <code><a href="https://www.uniprot.org/" target="_blank"><img src="https://cdn.mrayush.me/img/Github-Readme/uniprot-logo.svg" title="UniProt" alt="uniprot" width="40" height="40"/></a></code>&nbsp;
     <code><a href="https://www.rcsb.org/" target="_blank"><img src="https://cdn.mrayush.me/img/Github-Readme/rcsb-logo.svg" title="RCSB PDB" alt="rcsb" width="40" height="40"/></a></code>&nbsp;
     <code><a href="https://blast.ncbi.nlm.nih.gov/Blast.cgi" target="_blank"><img src="https://cdn.mrayush.me/img/Github-Readme/blast-logo.svg" title="NCBI BLAST" alt="blast" width="40" height="40"/></a></code>&nbsp;
