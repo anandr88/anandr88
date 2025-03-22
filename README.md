@@ -30,13 +30,11 @@
     <div>
         <h1></h1>
         <ul>
-            ```
             <li>🔭 <b>I’m am a Computational biologist.</li>
             <li>🛠️ <b>Working with</b>: Python, Machine Learning, Bioinformatics, and Data Science</li>
             <li>🔍 <b>Exploring the intersection of</b>AI and Life Sciences</li>
             <li>📌 <b>Passionate about</b>open-source collaboration and innovative biological research</li>
-            ```
-        </ul>
+            </ul>
         <br />
     </div>
 <br>    
