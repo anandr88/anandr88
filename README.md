@@ -76,12 +76,6 @@
     <code><a href="https://matplotlib.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" title="Matplotlib" alt="Matplotlib" width="40" height="40"/></a></code>&nbsp;
     <code><a href="https://seaborn.pydata.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/6/66/Seaborn_logo.svg" title="Seaborn" alt="Seaborn" width="40" height="40"/></a></code>&nbsp;
     <code><a href="https://plotly.com/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Plotly_logo.png" title="Plotly" alt="Plotly" width="40" height="40"/></a></code>&nbsp;
-    <code><a href="https://bokeh.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/3/3c/Bokeh_logo.svg" title="Bokeh" alt="Bokeh" width="40" height="40"/></a></code>&nbsp;
-    <code><a href="https://docs.dask.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Dask_logo.svg" title="Dask" alt="Dask" width="40" height="40"/></a></code>&nbsp;
-    <code><a href="https://pyspark.apache.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Apache_Spark_logo.svg" title="PySpark" alt="PySpark" width="40" height="40"/></a></code>&nbsp;
-    <code><a href="https://fastapi.tiangolo.com/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/0/0a/Fastapi_logo.svg" title="FastAPI" alt="FastAPI" width="40" height="40"/></a></code>&nbsp;
-    <code><a href="https://flask.palletsprojects.com/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/3/3c/Flask_logo.svg" title="Flask" alt="Flask" width="40" height="40"/></a></code>&nbsp;
-    <code><a href="https://streamlit.io/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/a/a8/Streamlit_logo.svg" title="Streamlit" alt="Streamlit" width="40" height="40"/></a></code>&nbsp;
     <code><a href="https://www.scipy.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/SCIPY_2.svg" title="SciPy" alt="SciPy" width="40" height="40"/></a></code>&nbsp;
     <code><a href="https://www.statsmodels.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/3/32/Statsmodels_logo.svg" title="Statsmodels" alt="Statsmodels" width="40" height="40"/></a></code>&nbsp;
     <code><a href="https://www.sympy.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Sympy_logo.svg" title="SymPy" alt="SymPy" width="40" height="40"/></a></code>&nbsp;
@@ -98,7 +92,6 @@
     <code><a href="https://github.com/" target="_blank"><img src="https://cdn.mrayush.me/img/Github-Readme/github-original.svg" title="GitHub" alt="github" width="40" height="40"/></a></code>&nbsp;
     <code><a href="https://git-scm.com/" target="_blank"><img src="https://cdn.mrayush.me/img/Github-Readme/git-original.svg" title="Git" alt="git" width="40" height="40"/></a></code>&nbsp;
     <code><a href="https://jupyter.org/" target="_blank"><img src="https://cdn.mrayush.me/img/Github-Readme/jupyter-original.svg" title="Jupyter Notebook" alt="jupyter" width="40" height="40"/></a></code>&nbsp;
-    <code><a href="https://developer.android.com/studio" target="_blank"> <img src="https://github.com/HarshAggarwal1/HarshAggarwal1/assets/88721766/dbc21551-755e-470e-8f19-a9542513cb97" title="Android Studio" alt="android-studio" width="40" height="40"/></a></code>&nbsp;
     <code><a href="https://colab.research.google.com/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Google_Colaboratory_SVG_Logo.svg/512px-Google_Colaboratory_SVG_Logo.svg.png" title="Google Colab" alt="colab" width="40" height="40"/></a></code>&nbsp;
     <code><a href="https://www.anaconda.com/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/en/c/cd/Anaconda_Logo.png" title="Anaconda" alt="anaconda" width="40" height="40"/></a></code>&nbsp;
     <code><a href="https://www.kaggle.com/" target="_blank"><img src="https://www.kaggle.com/static/images/site-logo.svg" title="Kaggle" alt="kaggle" width="40" height="40"/></a></code>&nbsp;
