@@ -42,17 +42,6 @@
     <h1>Skill Set 💪</h1>
     <h4>These are some of the major technologies that I use or have worked on in the past:</h4>
 </div>
-<div align="center">
-    <h3><b>Biological Tools</b></h3>
-    <code><a href="https://www.uniprot.org/" target="_blank"><img src="https://static.uniprot.org/images/uniprot-rdf.svg" title="UniProt" alt="uniprot" width="40" height="40"/></a></code>&nbsp;
-    <code><a href="https://www.rcsb.org/" target="_blank"><img src="https://cdn.rcsb.org/rcsb-pdb/v2/common/images/pdb-header-logo.png" title="RCSB PDB" alt="rcsb" width="40" height="40"/></a></code>&nbsp;
-    <code><a href="https://blast.ncbi.nlm.nih.gov/Blast.cgi" target="_blank"><img src="https://www.ncbi.nlm.nih.gov/core/assets/ncbi/images/logos/ncbi-logo-blue.svg" title="NCBI BLAST" alt="blast" width="40" height="40"/></a></code>&nbsp;
-    <code><a href="https://www.ebi.ac.uk/interpro/" target="_blank"><img src="https://www.ebi.ac.uk/static/img/ebi-logo-header.svg" title="InterPro" alt="interpro" width="40" height="40"/></a></code>&nbsp;
-    <code><a href="https://github.com/weizhongli/cdhit" target="_blank"><img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" title="CD-HIT" alt="cdhit" width="40" height="40"/></a></code>&nbsp;
-    <code><a href="https://biopython.org/" target="_blank"><img src="https://biopython.org/assets/logo_main.png" title="Biopython" alt="biopython" width="40" height="40"/></a></code>&nbsp;
-    <code><a href="https://www.expasy.org/translate/" target="_blank"><img src="https://www.expasy.org/sites/all/themes/expasy/logo.png" title="Expasy Translate" alt="expasy" width="40" height="40"/></a></code>&nbsp;
-    <code><a href="https://web.expasy.org/protparam/" target="_blank"><img src="https://www.expasy.org/sites/all/themes/expasy/logo.png" title="ProtParam" alt="protparam" width="40" height="40"/></a></code>&nbsp;
-</div>
 
 <div align="center">
     <h3><b>Biological Tools</b></h3>
@@ -73,6 +62,30 @@
     <code><a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src="https://cdn.mrayush.me/img/Github-Readme/css3-original.svg" title="CSS" alt="css" width="40" height="40"/></a></code>&nbsp;
 </div>
 
+<div align="center">
+    <h3><b>Libraries and Frameworks</b></h3>
+    <code><a href="https://keras.io/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg" title="Keras" alt="Keras" width="40" height="40"/></a></code>&nbsp;
+    <code><a href="https://www.tensorflow.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Tensorflow_logo.svg" title="TensorFlow" alt="TensorFlow" width="40" height="40"/></a></code>&nbsp;
+    <code><a href="https://pandas.pydata.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" title="Pandas" alt="Pandas" width="40" height="40"/></a></code>&nbsp;
+    <code><a href="https://numpy.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo.svg" title="NumPy" alt="NumPy" width="40" height="40"/></a></code>&nbsp;
+    <code><a href="https://scikit-learn.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" title="Scikit-learn" alt="Scikit-learn" width="40" height="40"/></a></code>&nbsp;
+    <code><a href="https://pytorch.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/1/10/PyTorch_logo_icon.svg" title="PyTorch" alt="PyTorch" width="40" height="40"/></a></code>&nbsp;
+    <code><a href="https://xgboost.readthedocs.io/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/6/69/XGBoost_logo.png" title="XGBoost" alt="XGBoost" width="40" height="40"/></a></code>&nbsp;
+    <code><a href="https://lightgbm.readthedocs.io/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/7/76/Lightgbm_logo.svg" title="LightGBM" alt="LightGBM" width="40" height="40"/></a></code>&nbsp;
+    <code><a href="https://catboost.ai/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/0/00/CatBoost_logo.png" title="CatBoost" alt="CatBoost" width="40" height="40"/></a></code>&nbsp;
+    <code><a href="https://matplotlib.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" title="Matplotlib" alt="Matplotlib" width="40" height="40"/></a></code>&nbsp;
+    <code><a href="https://seaborn.pydata.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/6/66/Seaborn_logo.svg" title="Seaborn" alt="Seaborn" width="40" height="40"/></a></code>&nbsp;
+    <code><a href="https://plotly.com/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Plotly_logo.png" title="Plotly" alt="Plotly" width="40" height="40"/></a></code>&nbsp;
+    <code><a href="https://bokeh.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/3/3c/Bokeh_logo.svg" title="Bokeh" alt="Bokeh" width="40" height="40"/></a></code>&nbsp;
+    <code><a href="https://docs.dask.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Dask_logo.svg" title="Dask" alt="Dask" width="40" height="40"/></a></code>&nbsp;
+    <code><a href="https://pyspark.apache.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Apache_Spark_logo.svg" title="PySpark" alt="PySpark" width="40" height="40"/></a></code>&nbsp;
+    <code><a href="https://fastapi.tiangolo.com/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/0/0a/Fastapi_logo.svg" title="FastAPI" alt="FastAPI" width="40" height="40"/></a></code>&nbsp;
+    <code><a href="https://flask.palletsprojects.com/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/3/3c/Flask_logo.svg" title="Flask" alt="Flask" width="40" height="40"/></a></code>&nbsp;
+    <code><a href="https://streamlit.io/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/a/a8/Streamlit_logo.svg" title="Streamlit" alt="Streamlit" width="40" height="40"/></a></code>&nbsp;
+    <code><a href="https://www.scipy.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/SCIPY_2.svg" title="SciPy" alt="SciPy" width="40" height="40"/></a></code>&nbsp;
+    <code><a href="https://www.statsmodels.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/3/32/Statsmodels_logo.svg" title="Statsmodels" alt="Statsmodels" width="40" height="40"/></a></code>&nbsp;
+    <code><a href="https://www.sympy.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Sympy_logo.svg" title="SymPy" alt="SymPy" width="40" height="40"/></a></code>&nbsp;
+</div>
 
 <div align="center">
     <h3><b>Libraries and Frameworks</b></h3>
