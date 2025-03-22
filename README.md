@@ -1,6 +1,9 @@
 <div>
     <div align="center">
-        <img src="https://www.datasciencecentral.com/wp-content/uploads/2021/10/9264415667.jpeg" height="200" />
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/DNA_double_helix_vertical.png/800px-DNA_double_helix_vertical.png" height="200" />
+        <img src="https://www.ebi.ac.uk/training/sites/default/files/2020-06/Bioinformatics%20Resources_0.png" height="200" />
+        <img src="https://www.genengnews.com/wp-content/uploads/2022/03/GettyImages-1303188586-scaled.jpg" height="200" />
+        <img src="https://miro.medium.com/v2/resize:fit:1200/1*Xw8vVi3rDk6JeGv5lMEyDA.jpeg" height="200" />
         <img src="https://cdn.mrayush.me/img/Github-Readme/GitHub.png" height="200" />
     </div>
     <div align="center">
