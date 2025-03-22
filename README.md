@@ -25,6 +25,7 @@
         <h1></h1>
     </div>
 </div>
+```py
 <div>
     <div>
         <h1></h1>
@@ -37,7 +38,7 @@
         <br />
     </div>
 <br>    
-
+```
 <div align="center">
     <h1>Skill Set 💪</h1>
     <h4>These are some of the major technologies that I use or have worked on in the past:</h4>
