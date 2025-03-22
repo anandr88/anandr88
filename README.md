@@ -88,32 +88,6 @@
 </div>
 
 <div align="center">
-    <h3><b>Libraries and Frameworks</b></h3>
-    <code><a href="https://keras.io/" target="_blank"><img src="" title="Keras" alt="keras" width="40" height="40"/></a></code>&nbsp;
-    <code><a href="https://www.tensorflow.org/" target="_blank"><img src="" title="TensorFlow" alt="tensorflow" width="40" height="40"/></a></code>&nbsp;
-    <code><a href="https://pandas.pydata.org/" target="_blank"><img src="" title="Pandas" alt="pandas" width="40" height="40"/></a></code>&nbsp;
-    <code><a href="https://numpy.org/" target="_blank"><img src="" title="Numpy" alt="numpy" width="40" height="40"/></a></code>&nbsp;
-    <code><a href="https://scikit-learn.org/" target="_blank"><img src="" title="Scikit-learn" alt="scikit-learn" width="40" height="40"/></a></code>&nbsp;
-    <code><a href="https://platform.openai.com/docs/guides/gpt" target="_blank"><img src="" title="LLM" alt="llm" width="40" height="40"/></a></code>&nbsp;
-    <code><a href="https://pytorch.org/" target="_blank"><img src="" title="PyTorch" alt="pytorch" width="40" height="40"/></a></code>&nbsp;
-    <code><a href="https://xgboost.readthedocs.io/" target="_blank"><img src="" title="XGBoost" alt="xgboost" width="40" height="40"/></a></code>&nbsp;
-    <code><a href="https://lightgbm.readthedocs.io/" target="_blank"><img src="" title="LightGBM" alt="lightgbm" width="40" height="40"/></a></code>&nbsp;
-    <code><a href="https://catboost.ai/" target="_blank"><img src="" title="CatBoost" alt="catboost" width="40" height="40"/></a></code>&nbsp;
-    <code><a href="https://matplotlib.org/" target="_blank"><img src="" title="Matplotlib" alt="matplotlib" width="40" height="40"/></a></code>&nbsp;
-    <code><a href="https://seaborn.pydata.org/" target="_blank"><img src="" title="Seaborn" alt="seaborn" width="40" height="40"/></a></code>&nbsp;
-    <code><a href="https://plotly.com/" target="_blank"><img src="" title="Plotly" alt="plotly" width="40" height="40"/></a></code>&nbsp;
-    <code><a href="https://bokeh.org/" target="_blank"><img src="" title="Bokeh" alt="bokeh" width="40" height="40"/></a></code>&nbsp;
-    <code><a href="https://docs.dask.org/" target="_blank"><img src="" title="Dask" alt="dask" width="40" height="40"/></a></code>&nbsp;
-    <code><a href="https://pyspark.apache.org/" target="_blank"><img src="" title="PySpark" alt="pyspark" width="40" height="40"/></a></code>&nbsp;
-    <code><a href="https://fastapi.tiangolo.com/" target="_blank"><img src="" title="FastAPI" alt="fastapi" width="40" height="40"/></a></code>&nbsp;
-    <code><a href="https://flask.palletsprojects.com/" target="_blank"><img src="" title="Flask" alt="flask" width="40" height="40"/></a></code>&nbsp;
-    <code><a href="https://streamlit.io/" target="_blank"><img src="" title="Streamlit" alt="streamlit" width="40" height="40"/></a></code>&nbsp;
-    <code><a href="https://www.scipy.org/" target="_blank"><img src="" title="SciPy" alt="scipy" width="40" height="40"/></a></code>&nbsp;
-    <code><a href="https://www.statsmodels.org/" target="_blank"><img src="" title="Statsmodels" alt="statsmodels" width="40" height="40"/></a></code>&nbsp;
-    <code><a href="https://www.sympy.org/" target="_blank"><img src="" title="SymPy" alt="sympy" width="40" height="40"/></a></code>&nbsp;
-</div>
-
-<div align="center">
     <h3><b>Databases</b></h3>
     <code><a href="https://www.mysql.com/" target="_blank"><img src="https://cdn.mrayush.me/img/Github-Readme/mysql-original.svg" title="MySql" alt="mysql" width="40" height="40"/></a></code>&nbsp;
 </div>
