@@ -5,12 +5,7 @@
     <div align="center">
         <a href="https://github.com/HarshAggarwal1">
             <img
-                src="https://readme-typing-svg.herokuapp.com?color=%232f97c1&size=32&center=true&vCenter=true&width=600&height=50&lines=Hi+👋,+I'm+Anand+Singh+Rathore;🎯+Computatinal+Biologist;🧠+AI-Enthusiast;Open-Source+Enthusiast;🔬+Bioinformatics+Explorer"
-            />
-        </a>
-        <a href="https://github.com/anandr88">
-            <img
-                src="https://readme-typing-svg.herokuapp.com?color=%232f97c1&size=32&center=true&vCenter=true&width=600&height=50&lines=Hi+👋,+I'm+Anand+Singh+Rathore; +🎯 + Computatinal+Biologist; +🧠 + AI-Enthusiast;Open-Source+Enthusiast;+🔬 + Bioinformatics Explorer"
+                src="https://readme-typing-svg.herokuapp.com?color=%232f97c1&size=32&center=true&vCenter=true&width=600&height=50&lines=Hi+👋,+I'm+Anand+Singh+Rathore;🎯+Computatinal+Biologist;🔬+Bioinformatics+Explorer;🧠+AI-Enthusiast;Open-Source+Enthusiast"
             />
         </a>
     </div>
