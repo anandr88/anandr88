@@ -25,6 +25,7 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anandrathoreindia@gmail.com)
 [![Google Scholar](https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=TdQKiqMAAAAJ)
 [![PyPI version](https://img.shields.io/pypi/v/your-package-name)](https://pypi.org/manage/projects)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10069288.svg)](https://zenodo.org/me/uploads?q=&f=shared_with_me%3Afalse&l=list&p=1&s=10&sort=newest)
 
 </div>
 
