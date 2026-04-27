@@ -177,7 +177,7 @@ G-C-A-T  →  Sequence  →  Structure  →  Function  →  Disease  →  Drug  
   DNA         BLAST        AlphaFold     UniProt       PDB        ML       🎯
 ```
 
-> I believe the future of medicine is written in **code** — both genetic and computational.
+> I believe the future of medicine is written in **code** - both genetic and computational.
 > Every protein fold, every gene expression pattern is a dataset waiting to be understood.
 
 ---
@@ -186,7 +186,7 @@ G-C-A-T  →  Sequence  →  Structure  →  Function  →  Disease  →  Drug  
 
 ### 🌐 Let's Collaborate!
 
-*If you're working on the intersection of AI and Life Sciences — let's build something meaningful together.*
+*If you're working on the intersection of AI and Life Sciences - let's build something meaningful together.*
 
 [![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anand-singh-rathore-56a1b2178/)
 [![Email](https://img.shields.io/badge/Drop_an_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anandrathoreindia@gmail.com)
