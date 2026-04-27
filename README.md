@@ -12,7 +12,16 @@
 <a href="https://github.com/anandr88">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=600&lines=🧬+Computational+Biologist;🔬+Bioinformatics+%7C+AI+%7C+Life+Sciences;🎓+PhD+Student+%40+IIIT+Delhi;🧠+Decoding+Life+with+Algorithms" alt="Typing SVG" />
 </a>
-
+<div align="center">
+        <img src="https://cdn.mrayush.me/img/Github-Readme/GitHub.png" height="200" />
+    </div>
+    <div align="center">
+        <a href="https://github.com/anandr88">
+            <img
+                src="https://readme-typing-svg.herokuapp.com?color=%232f97c1&size=32&center=true&vCenter=true&width=600&height=50&lines=Hi+👋,+I'm+Anand+Singh+Rathore;🎯+Computatinal+Biologist;Zoologist;🔬+Bioinformatics+Explorer;🧠+AI-Enthusiast;Open-Source+Enthusiast"
+            />
+        </a>
+    </div>
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anand-singh-rathore-56a1b2178/)
