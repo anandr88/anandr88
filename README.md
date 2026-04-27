@@ -62,7 +62,7 @@ anand = {
 ### 🧫 Research Focus
 - 🦠 **Protein structure & function** prediction
 - 🧬 **Genomics & Proteomics** analysis
-- 🤖 **ML/DL** applied to biological sequences
+- 🤖 **ML/DL/LLM/QML** applied to biological sequences
 - 📊 **Bioinformatics pipeline** development
 
 </td>
