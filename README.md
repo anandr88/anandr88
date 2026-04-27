@@ -1,100 +1,194 @@
-<div>
-    <div align="center">
-        <img src="https://cdn.mrayush.me/img/Github-Readme/GitHub.png" height="200" />
-    </div>
-    <div align="center">
-        <a href="https://github.com/anandr88">
-            <img
-                src="https://readme-typing-svg.herokuapp.com?color=%232f97c1&size=32&center=true&vCenter=true&width=600&height=50&lines=Hi+👋,+I'm+Anand+Singh+Rathore;🎯+Computatinal+Biologist;Zoologist;🔬+Bioinformatics+Explorer;🧠+AI-Enthusiast;Open-Source+Enthusiast"
-            />
-        </a>
-    </div>
-    <div align="center">
-        <a href="https://www.linkedin.com/in/anand-singh-rathore-56a1b2178/"><img src="https://img.shields.io/badge/Linkedin-0077b5?style=flat&logo=linkedin" /></a>
-        <a href="mailto:anandrathoreindia@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a>
-        <a href="https://scholar.google.com/citations?user=TdQKiqMAAAAJ">
-        <img src="https://img.shields.io/badge/Google%20Scholar-4285F4?style=flat&logo=google-scholar&logoColor=white" /></a>
-    </div>
-    <div align="left">
-        <br />
-        <p>
-            <strong>
-                I'm a PhD Student at Indraprastha Institute of Information Technology, Delhi; I'm an enthusiastic professional with a background in zoology, biochemistry and bioinformatics. Proficient in Python and eager to learn more, I'm ready to contribute to innovative projects that solve complex biological problems. Let's connect and explore the exciting world of data science in life sciences.
-            </strong>
-        </p>
-        <h1></h1>
-    </div>
+<div align="center">
+
+```
+██████╗ ██╗ ██████╗     ██╗    ██╗ ██████╗ ██████╗ ██╗     ██████╗ 
+██╔══██╗██║██╔═══██╗    ██║    ██║██╔═══██╗██╔══██╗██║     ██╔══██╗
+██████╔╝██║██║   ██║    ██║ █╗ ██║██║   ██║██████╔╝██║     ██║  ██║
+██╔══██╗██║██║   ██║    ██║███╗██║██║   ██║██╔══██╗██║     ██║  ██║
+██████╔╝██║╚██████╔╝    ╚███╔███╔╝╚██████╔╝██║  ██║███████╗██████╔╝
+╚═════╝ ╚═╝ ╚═════╝      ╚══╝╚══╝  ╚═════╝ ╚═╝  ╚═╝╚══════╝╚═════╝ 
+```
+
+<a href="https://github.com/anandr88">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=600&lines=🧬+Computational+Biologist;🔬+Bioinformatics+%7C+AI+%7C+Life+Sciences;🎓+PhD+Student+%40+IIIT+Delhi;🧠+Decoding+Life+with+Algorithms" alt="Typing SVG" />
+</a>
+
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anand-singh-rathore-56a1b2178/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anandrathoreindia@gmail.com)
+[![Google Scholar](https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=TdQKiqMAAAAJ)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/anandr88)
+
 </div>
 
-<div>
-    <div>
-        <h1></h1>
-        <ul>
-            <li>🔭 <b>I’m am a Computational biologist.</li>
-            <li>🛠️ <b>Working with</b>: Python, Machine Learning, Bioinformatics, and Data Science</li>
-            <li>🔍 <b>Exploring the intersection of</b>AI and Life Sciences</li>
-            <li>📌 <b>Passionate about</b>open-source collaboration and innovative biological research</li>
-            </ul>
-        <br />
-    </div>
-<br>    
+---
+
+<img align="right" alt="DNA Animation" width="300" src="https://raw.githubusercontent.com/Potential17/Potential17/master/user%20(2).gif"/>
+
+## 🧬 About Me
+
+> *"Life is a computational problem waiting to be solved."*
+
+I'm a **PhD Student** at [Indraprastha Institute of Information Technology, Delhi](https://iiitd.ac.in/), straddling the beautiful intersection of **biology** and **computation**.
+
+With roots in **Zoology** and **Biochemistry**, I bring a wet-lab mindset to dry-lab pipelines — translating the complexity of living systems into algorithms that *actually* make sense.
+
+```python
+anand = {
+    "role"       : "Computational Biologist & PhD Researcher",
+    "institute"  : "IIIT Delhi",
+    "languages"  : ["Python 🐍", "PHP", "HTML/CSS"],
+    "passion"    : ["AI × Life Sciences", "Open Source", "Bioinformatics"],
+    "currently"  : "Decoding proteins with ML 🔬",
+    "motto"      : "Biology is just code that evolved."
+}
+```
+
+---
+
+## 🔬 What I Do
+
+<table>
+<tr>
+<td width="50%">
+
+### 🧫 Research Focus
+- 🦠 **Protein structure & function** prediction
+- 🧬 **Genomics & Proteomics** analysis
+- 🤖 **ML/DL** applied to biological sequences
+- 📊 **Bioinformatics pipeline** development
+
+</td>
+<td width="50%">
+
+### ⚡ Current Activities
+- 🔭 Exploring AI-driven drug target discovery
+- 🌱 Learning advanced deep learning architectures
+- 👯 Open to collaborate on bio-ML projects
+- 📝 Writing research & documenting tools
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🛠️ Tech Arsenal
+
+### 🧬 Biological & Bioinformatics Tools
 
 <div align="center">
-    <h1>Skill Set 💪</h1>
-    <h4>These are some of the major technologies that I use or have worked on in the past:</h4>
+
+[![UniProt](https://img.shields.io/badge/UniProt-009e73?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMDAgMTAwIj48dGV4dCB5PSIuOWVtIiBmb250LXNpemU9IjkwIj7wn6WMPC90ZXh0Pjwvc3ZnPg==&logoColor=white)](https://www.uniprot.org/)
+[![RCSB PDB](https://img.shields.io/badge/RCSB_PDB-1F6FEB?style=for-the-badge&logoColor=white)](https://www.rcsb.org/)
+[![NCBI BLAST](https://img.shields.io/badge/NCBI_BLAST-204099?style=for-the-badge&logoColor=white)](https://blast.ncbi.nlm.nih.gov/)
+[![InterPro](https://img.shields.io/badge/InterPro-0070C0?style=for-the-badge&logoColor=white)](https://www.ebi.ac.uk/interpro/)
+[![CD-HIT](https://img.shields.io/badge/CD--HIT-FF6B6B?style=for-the-badge&logoColor=white)](https://github.com/weizhongli/cdhit)
+[![Biopython](https://img.shields.io/badge/Biopython-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://biopython.org/)
+[![ExPASy](https://img.shields.io/badge/ExPASy-E53935?style=for-the-badge&logoColor=white)](https://www.expasy.org/)
+[![ProtParam](https://img.shields.io/badge/ProtParam-7B1FA2?style=for-the-badge&logoColor=white)](https://web.expasy.org/protparam/)
+
+</div>
+
+---
+
+### 💻 Programming Languages
+
+<div align="center">
+
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org)
+[![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)](https://www.php.net/)
+[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+
+</div>
+
+---
+
+### 📦 Libraries & Frameworks
+
+<div align="center">
+
+[![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)](https://www.tensorflow.org/)
+[![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)](https://pytorch.org/)
+[![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)](https://keras.io/)
+[![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)](https://scikit-learn.org/)
+[![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org/)
+[![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)](https://numpy.org/)
+[![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white)](https://www.scipy.org/)
+[![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white)](https://matplotlib.org/)
+[![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=python&logoColor=white)](https://seaborn.pydata.org/)
+[![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)](https://plotly.com/)
+[![XGBoost](https://img.shields.io/badge/XGBoost-337AB7?style=for-the-badge&logo=python&logoColor=white)](https://xgboost.readthedocs.io/)
+[![LightGBM](https://img.shields.io/badge/LightGBM-02569B?style=for-the-badge&logo=python&logoColor=white)](https://lightgbm.readthedocs.io/)
+[![CatBoost](https://img.shields.io/badge/CatBoost-FFCC00?style=for-the-badge&logo=python&logoColor=black)](https://catboost.ai/)
+[![Statsmodels](https://img.shields.io/badge/Statsmodels-3F51B5?style=for-the-badge&logo=python&logoColor=white)](https://www.statsmodels.org/)
+[![SymPy](https://img.shields.io/badge/SymPy-3B5526?style=for-the-badge&logo=sympy&logoColor=white)](https://www.sympy.org/)
+
+</div>
+
+---
+
+### 🗄️ Databases & Tools
+
+<div align="center">
+
+[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
+[![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
+[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
+[![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)](https://jupyter.org/)
+[![Google Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=google-colab&logoColor=black)](https://colab.research.google.com/)
+[![Anaconda](https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white)](https://www.anaconda.com/)
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/)
+
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=anandr88&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anandr88&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+
 </div>
 
 <div align="center">
-    <h3><b>Biological Tools</b></h3>
-    <code><a href="https://www.uniprot.org/" target="_blank"><img src="https://cdn.mrayush.me/img/Github-Readme/uniprot-logo.svg" title="UniProt" alt="uniprot" width="40" height="40"/></a></code>&nbsp;
-    <code><a href="https://www.rcsb.org/" target="_blank"><img src="https://cdn.mrayush.me/img/Github-Readme/rcsb-logo.svg" title="RCSB PDB" alt="rcsb" width="40" height="40"/></a></code>&nbsp;
-    <code><a href="https://blast.ncbi.nlm.nih.gov/Blast.cgi" target="_blank"><img src="https://cdn.mrayush.me/img/Github-Readme/blast-logo.svg" title="NCBI BLAST" alt="blast" width="40" height="40"/></a></code>&nbsp;
-    <code><a href="https://www.ebi.ac.uk/interpro/" target="_blank"><img src="https://cdn.mrayush.me/img/Github-Readme/interpro-logo.svg" title="InterPro" alt="interpro" width="40" height="40"/></a></code>&nbsp;
-    <code><a href="https://github.com/weizhongli/cdhit" target="_blank"><img src="https://cdn.mrayush.me/img/Github-Readme/cdhit-logo.svg" title="CD-HIT" alt="cdhit" width="40" height="40"/></a></code>&nbsp;
-    <code><a href="https://biopython.org/" target="_blank"><img src="https://cdn.mrayush.me/img/Github-Readme/biopython-logo.svg" title="Biopython" alt="biopython" width="40" height="40"/></a></code>&nbsp;
-    <code><a href="https://www.expasy.org/translate/" target="_blank"><img src="https://cdn.mrayush.me/img/Github-Readme/expasy-logo.svg" title="Expasy Translate" alt="expasy" width="40" height="40"/></a></code>&nbsp;
-    <code><a href="https://web.expasy.org/protparam/" target="_blank"><img src="https://cdn.mrayush.me/img/Github-Readme/protparam-logo.svg" title="ProtParam" alt="protparam" width="40" height="40"/></a></code>&nbsp;
-</div>
-<div align="center">
-    <h3><b>Programming Languages</b></h3>
-    <code><a href="https://www.python.org" target="_blank"><img src="https://cdn.mrayush.me/img/Github-Readme/python-original.svg" title="Python" alt="python" width="40" height="40"/></a></code>&nbsp;
-    <code><a href="https://www.php.net/" target="_blank"><img src="https://cdn.mrayush.me/img/Github-Readme/php-original.svg" title="PHP" alt="php" width="40" height="40"/></a></code>&nbsp;
-    <code><a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="https://cdn.mrayush.me/img/Github-Readme/html5-original.svg" title="HTML" alt="html" width="40" height="40"/></a></code>&nbsp;
-    <code><a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src="https://cdn.mrayush.me/img/Github-Readme/css3-original.svg" title="CSS" alt="css" width="40" height="40"/></a></code>&nbsp;
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=anandr88&theme=tokyonight&hide_border=true&background=0D1117)](https://git.io/streak-stats)
+
 </div>
 
-<div align="center">
-    <h3><b>Libraries and Frameworks</b></h3>
-    <code><a href="https://keras.io/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg" title="Keras" alt="Keras" width="40" height="40"/></a></code>&nbsp;
-    <code><a href="https://www.tensorflow.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Tensorflow_logo.svg" title="TensorFlow" alt="TensorFlow" width="40" height="40"/></a></code>&nbsp;
-    <code><a href="https://pandas.pydata.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" title="Pandas" alt="Pandas" width="40" height="40"/></a></code>&nbsp;
-    <code><a href="https://numpy.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo.svg" title="NumPy" alt="NumPy" width="40" height="40"/></a></code>&nbsp;
-    <code><a href="https://scikit-learn.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" title="Scikit-learn" alt="Scikit-learn" width="40" height="40"/></a></code>&nbsp;
-    <code><a href="https://pytorch.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/1/10/PyTorch_logo_icon.svg" title="PyTorch" alt="PyTorch" width="40" height="40"/></a></code>&nbsp;
-    <code><a href="https://xgboost.readthedocs.io/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/6/69/XGBoost_logo.png" title="XGBoost" alt="XGBoost" width="40" height="40"/></a></code>&nbsp;
-    <code><a href="https://lightgbm.readthedocs.io/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/7/76/Lightgbm_logo.svg" title="LightGBM" alt="LightGBM" width="40" height="40"/></a></code>&nbsp;
-    <code><a href="https://catboost.ai/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/0/00/CatBoost_logo.png" title="CatBoost" alt="CatBoost" width="40" height="40"/></a></code>&nbsp;
-    <code><a href="https://matplotlib.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" title="Matplotlib" alt="Matplotlib" width="40" height="40"/></a></code>&nbsp;
-    <code><a href="https://seaborn.pydata.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/6/66/Seaborn_logo.svg" title="Seaborn" alt="Seaborn" width="40" height="40"/></a></code>&nbsp;
-    <code><a href="https://plotly.com/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Plotly_logo.png" title="Plotly" alt="Plotly" width="40" height="40"/></a></code>&nbsp;
-    <code><a href="https://www.scipy.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/SCIPY_2.svg" title="SciPy" alt="SciPy" width="40" height="40"/></a></code>&nbsp;
-    <code><a href="https://www.statsmodels.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/3/32/Statsmodels_logo.svg" title="Statsmodels" alt="Statsmodels" width="40" height="40"/></a></code>&nbsp;
-    <code><a href="https://www.sympy.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Sympy_logo.svg" title="SymPy" alt="SymPy" width="40" height="40"/></a></code>&nbsp;
-</div>
+---
+
+## 🧬 Research Philosophy
+
+```
+G-C-A-T  →  Sequence  →  Structure  →  Function  →  Disease  →  Drug  →  Cure
+  DNA         BLAST        AlphaFold     UniProt       PDB        ML       🎯
+```
+
+> I believe the future of medicine is written in **code** — both genetic and computational.
+> Every protein fold, every gene expression pattern is a dataset waiting to be understood.
+
+---
 
 <div align="center">
-    <h3><b>Databases</b></h3>
-    <code><a href="https://www.mysql.com/" target="_blank"><img src="https://cdn.mrayush.me/img/Github-Readme/mysql-original.svg" title="MySql" alt="mysql" width="40" height="40"/></a></code>&nbsp;
-</div>
 
-<div align="center">
-    <h3><b>Tools</b></h3>
-    <code><a href="https://visualstudio.com/" target="_blank"><img src="https://cdn.mrayush.me/img/Github-Readme/vscode-original.svg" title="VSCode" alt="vscode" width="40" height="40"/></a></code>&nbsp;
-    <code><a href="https://github.com/" target="_blank"><img src="https://cdn.mrayush.me/img/Github-Readme/github-original.svg" title="GitHub" alt="github" width="40" height="40"/></a></code>&nbsp;
-    <code><a href="https://git-scm.com/" target="_blank"><img src="https://cdn.mrayush.me/img/Github-Readme/git-original.svg" title="Git" alt="git" width="40" height="40"/></a></code>&nbsp;
-    <code><a href="https://jupyter.org/" target="_blank"><img src="https://cdn.mrayush.me/img/Github-Readme/jupyter-original.svg" title="Jupyter Notebook" alt="jupyter" width="40" height="40"/></a></code>&nbsp;
-    <code><a href="https://colab.research.google.com/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Google_Colaboratory_SVG_Logo.svg/512px-Google_Colaboratory_SVG_Logo.svg.png" title="Google Colab" alt="colab" width="40" height="40"/></a></code>&nbsp;
-    <code><a href="https://www.anaconda.com/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/en/c/cd/Anaconda_Logo.png" title="Anaconda" alt="anaconda" width="40" height="40"/></a></code>&nbsp;
-    <code><a href="https://www.kaggle.com/" target="_blank"><img src="https://www.kaggle.com/static/images/site-logo.svg" title="Kaggle" alt="kaggle" width="40" height="40"/></a></code>&nbsp;
-</div>
+### 🌐 Let's Collaborate!
 
+*If you're working on the intersection of AI and Life Sciences — let's build something meaningful together.*
+
+[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anand-singh-rathore-56a1b2178/)
+[![Email](https://img.shields.io/badge/Drop_an_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anandrathoreindia@gmail.com)
+
+---
+
+![Profile Views](https://komarev.com/ghpvc/?username=anandr88&color=00d9ff&style=for-the-badge&label=Profile+Views)
+
+*"In the symphony of life, I write the score with algorithms."* 🧬✨
+
+</div>
